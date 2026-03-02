@@ -1,0 +1,501 @@
+comment_id,comment_text,expected_sentiment
+1,The proposed amendment will significantly improve ease of compliance for companies.,Positive
+2,This draft law simplifies reporting requirements and reduces unnecessary paperwork.,Positive
+3,The amendment appears beneficial for startups and emerging enterprises.,Positive
+4,I strongly support this amendment as it promotes transparency and accountability.,Positive
+5,This change will encourage better corporate governance practices.,Positive
+6,The amendment is a progressive step towards modern corporate regulation.,Positive
+7,Reduced penalties under this amendment will help MSMEs grow sustainably.,Positive
+8,The provision aligns well with global corporate governance standards.,Positive
+9,This amendment makes compliance more practical and efficient.,Positive
+10,The proposed changes will reduce the compliance burden on businesses.,Positive
+11,The proposed amendment will significantly improve ease of compliance for companies.,Positive
+12,This draft law simplifies reporting requirements and reduces unnecessary paperwork.,Positive
+13,The amendment appears beneficial for startups and emerging enterprises.,Positive
+14,I strongly support this amendment as it promotes transparency and accountability.,Positive
+15,This change will encourage better corporate governance practices.,Positive
+16,The amendment is a progressive step towards modern corporate regulation.,Positive
+17,Reduced penalties under this amendment will help MSMEs grow sustainably.,Positive
+18,The provision aligns well with global corporate governance standards.,Positive
+19,This amendment makes compliance more practical and efficient.,Positive
+20,The proposed changes will reduce the compliance burden on businesses.,Positive
+21,The proposed amendment will significantly improve ease of compliance for companies.,Positive
+22,This draft law simplifies reporting requirements and reduces unnecessary paperwork.,Positive
+23,The amendment appears beneficial for startups and emerging enterprises.,Positive
+24,I strongly support this amendment as it promotes transparency and accountability.,Positive
+25,This change will encourage better corporate governance practices.,Positive
+26,The amendment is a progressive step towards modern corporate regulation.,Positive
+27,Reduced penalties under this amendment will help MSMEs grow sustainably.,Positive
+28,The provision aligns well with global corporate governance standards.,Positive
+29,This amendment makes compliance more practical and efficient.,Positive
+30,The proposed changes will reduce the compliance burden on businesses.,Positive
+31,The proposed amendment will significantly improve ease of compliance for companies.,Positive
+32,This draft law simplifies reporting requirements and reduces unnecessary paperwork.,Positive
+33,The amendment appears beneficial for startups and emerging enterprises.,Positive
+34,I strongly support this amendment as it promotes transparency and accountability.,Positive
+35,This change will encourage better corporate governance practices.,Positive
+36,The amendment is a progressive step towards modern corporate regulation.,Positive
+37,Reduced penalties under this amendment will help MSMEs grow sustainably.,Positive
+38,The provision aligns well with global corporate governance standards.,Positive
+39,This amendment makes compliance more practical and efficient.,Positive
+40,The proposed changes will reduce the compliance burden on businesses.,Positive
+41,The proposed amendment will significantly improve ease of compliance for companies.,Positive
+42,This draft law simplifies reporting requirements and reduces unnecessary paperwork.,Positive
+43,The amendment appears beneficial for startups and emerging enterprises.,Positive
+44,I strongly support this amendment as it promotes transparency and accountability.,Positive
+45,This change will encourage better corporate governance practices.,Positive
+46,The amendment is a progressive step towards modern corporate regulation.,Positive
+47,Reduced penalties under this amendment will help MSMEs grow sustainably.,Positive
+48,The provision aligns well with global corporate governance standards.,Positive
+49,This amendment makes compliance more practical and efficient.,Positive
+50,The proposed changes will reduce the compliance burden on businesses.,Positive
+51,The proposed amendment will significantly improve ease of compliance for companies.,Positive
+52,This draft law simplifies reporting requirements and reduces unnecessary paperwork.,Positive
+53,The amendment appears beneficial for startups and emerging enterprises.,Positive
+54,I strongly support this amendment as it promotes transparency and accountability.,Positive
+55,This change will encourage better corporate governance practices.,Positive
+56,The amendment is a progressive step towards modern corporate regulation.,Positive
+57,Reduced penalties under this amendment will help MSMEs grow sustainably.,Positive
+58,The provision aligns well with global corporate governance standards.,Positive
+59,This amendment makes compliance more practical and efficient.,Positive
+60,The proposed changes will reduce the compliance burden on businesses.,Positive
+61,The proposed amendment will significantly improve ease of compliance for companies.,Positive
+62,This draft law simplifies reporting requirements and reduces unnecessary paperwork.,Positive
+63,The amendment appears beneficial for startups and emerging enterprises.,Positive
+64,I strongly support this amendment as it promotes transparency and accountability.,Positive
+65,This change will encourage better corporate governance practices.,Positive
+66,The amendment is a progressive step towards modern corporate regulation.,Positive
+67,Reduced penalties under this amendment will help MSMEs grow sustainably.,Positive
+68,The provision aligns well with global corporate governance standards.,Positive
+69,This amendment makes compliance more practical and efficient.,Positive
+70,The proposed changes will reduce the compliance burden on businesses.,Positive
+71,The proposed amendment will significantly improve ease of compliance for companies.,Positive
+72,This draft law simplifies reporting requirements and reduces unnecessary paperwork.,Positive
+73,The amendment appears beneficial for startups and emerging enterprises.,Positive
+74,I strongly support this amendment as it promotes transparency and accountability.,Positive
+75,This change will encourage better corporate governance practices.,Positive
+76,The amendment is a progressive step towards modern corporate regulation.,Positive
+77,Reduced penalties under this amendment will help MSMEs grow sustainably.,Positive
+78,The provision aligns well with global corporate governance standards.,Positive
+79,This amendment makes compliance more practical and efficient.,Positive
+80,The proposed changes will reduce the compliance burden on businesses.,Positive
+81,The proposed amendment will significantly improve ease of compliance for companies.,Positive
+82,This draft law simplifies reporting requirements and reduces unnecessary paperwork.,Positive
+83,The amendment appears beneficial for startups and emerging enterprises.,Positive
+84,I strongly support this amendment as it promotes transparency and accountability.,Positive
+85,This change will encourage better corporate governance practices.,Positive
+86,The amendment is a progressive step towards modern corporate regulation.,Positive
+87,Reduced penalties under this amendment will help MSMEs grow sustainably.,Positive
+88,The provision aligns well with global corporate governance standards.,Positive
+89,This amendment makes compliance more practical and efficient.,Positive
+90,The proposed changes will reduce the compliance burden on businesses.,Positive
+91,The proposed amendment will significantly improve ease of compliance for companies.,Positive
+92,This draft law simplifies reporting requirements and reduces unnecessary paperwork.,Positive
+93,The amendment appears beneficial for startups and emerging enterprises.,Positive
+94,I strongly support this amendment as it promotes transparency and accountability.,Positive
+95,This change will encourage better corporate governance practices.,Positive
+96,The amendment is a progressive step towards modern corporate regulation.,Positive
+97,Reduced penalties under this amendment will help MSMEs grow sustainably.,Positive
+98,The provision aligns well with global corporate governance standards.,Positive
+99,This amendment makes compliance more practical and efficient.,Positive
+100,The proposed changes will reduce the compliance burden on businesses.,Positive
+101,The proposed amendment will significantly improve ease of compliance for companies.,Positive
+102,This draft law simplifies reporting requirements and reduces unnecessary paperwork.,Positive
+103,The amendment appears beneficial for startups and emerging enterprises.,Positive
+104,I strongly support this amendment as it promotes transparency and accountability.,Positive
+105,This change will encourage better corporate governance practices.,Positive
+106,The amendment is a progressive step towards modern corporate regulation.,Positive
+107,Reduced penalties under this amendment will help MSMEs grow sustainably.,Positive
+108,The provision aligns well with global corporate governance standards.,Positive
+109,This amendment makes compliance more practical and efficient.,Positive
+110,The proposed changes will reduce the compliance burden on businesses.,Positive
+111,The proposed amendment will significantly improve ease of compliance for companies.,Positive
+112,This draft law simplifies reporting requirements and reduces unnecessary paperwork.,Positive
+113,The amendment appears beneficial for startups and emerging enterprises.,Positive
+114,I strongly support this amendment as it promotes transparency and accountability.,Positive
+115,This change will encourage better corporate governance practices.,Positive
+116,The amendment is a progressive step towards modern corporate regulation.,Positive
+117,Reduced penalties under this amendment will help MSMEs grow sustainably.,Positive
+118,The provision aligns well with global corporate governance standards.,Positive
+119,This amendment makes compliance more practical and efficient.,Positive
+120,The proposed changes will reduce the compliance burden on businesses.,Positive
+121,The proposed amendment will significantly improve ease of compliance for companies.,Positive
+122,This draft law simplifies reporting requirements and reduces unnecessary paperwork.,Positive
+123,The amendment appears beneficial for startups and emerging enterprises.,Positive
+124,I strongly support this amendment as it promotes transparency and accountability.,Positive
+125,This change will encourage better corporate governance practices.,Positive
+126,The amendment is a progressive step towards modern corporate regulation.,Positive
+127,Reduced penalties under this amendment will help MSMEs grow sustainably.,Positive
+128,The provision aligns well with global corporate governance standards.,Positive
+129,This amendment makes compliance more practical and efficient.,Positive
+130,The proposed changes will reduce the compliance burden on businesses.,Positive
+131,The proposed amendment will significantly improve ease of compliance for companies.,Positive
+132,This draft law simplifies reporting requirements and reduces unnecessary paperwork.,Positive
+133,The amendment appears beneficial for startups and emerging enterprises.,Positive
+134,I strongly support this amendment as it promotes transparency and accountability.,Positive
+135,This change will encourage better corporate governance practices.,Positive
+136,The amendment is a progressive step towards modern corporate regulation.,Positive
+137,Reduced penalties under this amendment will help MSMEs grow sustainably.,Positive
+138,The provision aligns well with global corporate governance standards.,Positive
+139,This amendment makes compliance more practical and efficient.,Positive
+140,The proposed changes will reduce the compliance burden on businesses.,Positive
+141,The proposed amendment will significantly improve ease of compliance for companies.,Positive
+142,This draft law simplifies reporting requirements and reduces unnecessary paperwork.,Positive
+143,The amendment appears beneficial for startups and emerging enterprises.,Positive
+144,I strongly support this amendment as it promotes transparency and accountability.,Positive
+145,This change will encourage better corporate governance practices.,Positive
+146,The amendment is a progressive step towards modern corporate regulation.,Positive
+147,Reduced penalties under this amendment will help MSMEs grow sustainably.,Positive
+148,The provision aligns well with global corporate governance standards.,Positive
+149,This amendment makes compliance more practical and efficient.,Positive
+150,The proposed changes will reduce the compliance burden on businesses.,Positive
+151,The proposed amendment will significantly improve ease of compliance for companies.,Positive
+152,This draft law simplifies reporting requirements and reduces unnecessary paperwork.,Positive
+153,The amendment appears beneficial for startups and emerging enterprises.,Positive
+154,I strongly support this amendment as it promotes transparency and accountability.,Positive
+155,This change will encourage better corporate governance practices.,Positive
+156,The amendment is a progressive step towards modern corporate regulation.,Positive
+157,Reduced penalties under this amendment will help MSMEs grow sustainably.,Positive
+158,The provision aligns well with global corporate governance standards.,Positive
+159,This amendment makes compliance more practical and efficient.,Positive
+160,The proposed changes will reduce the compliance burden on businesses.,Positive
+161,The proposed amendment will significantly improve ease of compliance for companies.,Positive
+162,This draft law simplifies reporting requirements and reduces unnecessary paperwork.,Positive
+163,The amendment appears beneficial for startups and emerging enterprises.,Positive
+164,I strongly support this amendment as it promotes transparency and accountability.,Positive
+165,This change will encourage better corporate governance practices.,Positive
+166,The amendment is a progressive step towards modern corporate regulation.,Positive
+167,Reduced penalties under this amendment will help MSMEs grow sustainably.,Positive
+168,The provision aligns well with global corporate governance standards.,Positive
+169,This amendment makes compliance more practical and efficient.,Positive
+170,The proposed changes will reduce the compliance burden on businesses.,Positive
+171,The proposed amendment will significantly improve ease of compliance for companies.,Positive
+172,This draft law simplifies reporting requirements and reduces unnecessary paperwork.,Positive
+173,The amendment appears beneficial for startups and emerging enterprises.,Positive
+174,I strongly support this amendment as it promotes transparency and accountability.,Positive
+175,This change will encourage better corporate governance practices.,Positive
+176,The amendment is a progressive step towards modern corporate regulation.,Positive
+177,Reduced penalties under this amendment will help MSMEs grow sustainably.,Positive
+178,The provision aligns well with global corporate governance standards.,Positive
+179,This amendment makes compliance more practical and efficient.,Positive
+180,The proposed changes will reduce the compliance burden on businesses.,Positive
+181,The proposed amendment will significantly improve ease of compliance for companies.,Positive
+182,This draft law simplifies reporting requirements and reduces unnecessary paperwork.,Positive
+183,The amendment appears beneficial for startups and emerging enterprises.,Positive
+184,I strongly support this amendment as it promotes transparency and accountability.,Positive
+185,This change will encourage better corporate governance practices.,Positive
+186,The amendment is a progressive step towards modern corporate regulation.,Positive
+187,Reduced penalties under this amendment will help MSMEs grow sustainably.,Positive
+188,The provision aligns well with global corporate governance standards.,Positive
+189,This amendment makes compliance more practical and efficient.,Positive
+190,The proposed changes will reduce the compliance burden on businesses.,Positive
+191,The proposed amendment will significantly improve ease of compliance for companies.,Positive
+192,This draft law simplifies reporting requirements and reduces unnecessary paperwork.,Positive
+193,The amendment appears beneficial for startups and emerging enterprises.,Positive
+194,I strongly support this amendment as it promotes transparency and accountability.,Positive
+195,This change will encourage better corporate governance practices.,Positive
+196,The amendment is a progressive step towards modern corporate regulation.,Positive
+197,Reduced penalties under this amendment will help MSMEs grow sustainably.,Positive
+198,The provision aligns well with global corporate governance standards.,Positive
+199,This amendment makes compliance more practical and efficient.,Positive
+200,The proposed changes will reduce the compliance burden on businesses.,Positive
+201,The proposal is acceptable but may require further clarification.,Neutral
+202,"The amendment appears reasonable, though implementation will be important.",Neutral
+203,Some provisions are clear while others need more explanation.,Neutral
+204,The draft law introduces incremental changes rather than major reforms.,Neutral
+205,The impact of the amendment will depend on enforcement mechanisms.,Neutral
+206,The proposal maintains the existing framework with minor adjustments.,Neutral
+207,More guidance notes would help stakeholders understand the amendment.,Neutral
+208,The changes seem manageable but require proper awareness.,Neutral
+209,The amendment is neither significantly beneficial nor harmful.,Neutral
+210,Further stakeholder consultation would be useful.,Neutral
+211,The proposal is acceptable but may require further clarification.,Neutral
+212,"The amendment appears reasonable, though implementation will be important.",Neutral
+213,Some provisions are clear while others need more explanation.,Neutral
+214,The draft law introduces incremental changes rather than major reforms.,Neutral
+215,The impact of the amendment will depend on enforcement mechanisms.,Neutral
+216,The proposal maintains the existing framework with minor adjustments.,Neutral
+217,More guidance notes would help stakeholders understand the amendment.,Neutral
+218,The changes seem manageable but require proper awareness.,Neutral
+219,The amendment is neither significantly beneficial nor harmful.,Neutral
+220,Further stakeholder consultation would be useful.,Neutral
+221,The proposal is acceptable but may require further clarification.,Neutral
+222,"The amendment appears reasonable, though implementation will be important.",Neutral
+223,Some provisions are clear while others need more explanation.,Neutral
+224,The draft law introduces incremental changes rather than major reforms.,Neutral
+225,The impact of the amendment will depend on enforcement mechanisms.,Neutral
+226,The proposal maintains the existing framework with minor adjustments.,Neutral
+227,More guidance notes would help stakeholders understand the amendment.,Neutral
+228,The changes seem manageable but require proper awareness.,Neutral
+229,The amendment is neither significantly beneficial nor harmful.,Neutral
+230,Further stakeholder consultation would be useful.,Neutral
+231,The proposal is acceptable but may require further clarification.,Neutral
+232,"The amendment appears reasonable, though implementation will be important.",Neutral
+233,Some provisions are clear while others need more explanation.,Neutral
+234,The draft law introduces incremental changes rather than major reforms.,Neutral
+235,The impact of the amendment will depend on enforcement mechanisms.,Neutral
+236,The proposal maintains the existing framework with minor adjustments.,Neutral
+237,More guidance notes would help stakeholders understand the amendment.,Neutral
+238,The changes seem manageable but require proper awareness.,Neutral
+239,The amendment is neither significantly beneficial nor harmful.,Neutral
+240,Further stakeholder consultation would be useful.,Neutral
+241,The proposal is acceptable but may require further clarification.,Neutral
+242,"The amendment appears reasonable, though implementation will be important.",Neutral
+243,Some provisions are clear while others need more explanation.,Neutral
+244,The draft law introduces incremental changes rather than major reforms.,Neutral
+245,The impact of the amendment will depend on enforcement mechanisms.,Neutral
+246,The proposal maintains the existing framework with minor adjustments.,Neutral
+247,More guidance notes would help stakeholders understand the amendment.,Neutral
+248,The changes seem manageable but require proper awareness.,Neutral
+249,The amendment is neither significantly beneficial nor harmful.,Neutral
+250,Further stakeholder consultation would be useful.,Neutral
+251,The proposal is acceptable but may require further clarification.,Neutral
+252,"The amendment appears reasonable, though implementation will be important.",Neutral
+253,Some provisions are clear while others need more explanation.,Neutral
+254,The draft law introduces incremental changes rather than major reforms.,Neutral
+255,The impact of the amendment will depend on enforcement mechanisms.,Neutral
+256,The proposal maintains the existing framework with minor adjustments.,Neutral
+257,More guidance notes would help stakeholders understand the amendment.,Neutral
+258,The changes seem manageable but require proper awareness.,Neutral
+259,The amendment is neither significantly beneficial nor harmful.,Neutral
+260,Further stakeholder consultation would be useful.,Neutral
+261,The proposal is acceptable but may require further clarification.,Neutral
+262,"The amendment appears reasonable, though implementation will be important.",Neutral
+263,Some provisions are clear while others need more explanation.,Neutral
+264,The draft law introduces incremental changes rather than major reforms.,Neutral
+265,The impact of the amendment will depend on enforcement mechanisms.,Neutral
+266,The proposal maintains the existing framework with minor adjustments.,Neutral
+267,More guidance notes would help stakeholders understand the amendment.,Neutral
+268,The changes seem manageable but require proper awareness.,Neutral
+269,The amendment is neither significantly beneficial nor harmful.,Neutral
+270,Further stakeholder consultation would be useful.,Neutral
+271,The proposal is acceptable but may require further clarification.,Neutral
+272,"The amendment appears reasonable, though implementation will be important.",Neutral
+273,Some provisions are clear while others need more explanation.,Neutral
+274,The draft law introduces incremental changes rather than major reforms.,Neutral
+275,The impact of the amendment will depend on enforcement mechanisms.,Neutral
+276,The proposal maintains the existing framework with minor adjustments.,Neutral
+277,More guidance notes would help stakeholders understand the amendment.,Neutral
+278,The changes seem manageable but require proper awareness.,Neutral
+279,The amendment is neither significantly beneficial nor harmful.,Neutral
+280,Further stakeholder consultation would be useful.,Neutral
+281,The proposal is acceptable but may require further clarification.,Neutral
+282,"The amendment appears reasonable, though implementation will be important.",Neutral
+283,Some provisions are clear while others need more explanation.,Neutral
+284,The draft law introduces incremental changes rather than major reforms.,Neutral
+285,The impact of the amendment will depend on enforcement mechanisms.,Neutral
+286,The proposal maintains the existing framework with minor adjustments.,Neutral
+287,More guidance notes would help stakeholders understand the amendment.,Neutral
+288,The changes seem manageable but require proper awareness.,Neutral
+289,The amendment is neither significantly beneficial nor harmful.,Neutral
+290,Further stakeholder consultation would be useful.,Neutral
+291,The proposal is acceptable but may require further clarification.,Neutral
+292,"The amendment appears reasonable, though implementation will be important.",Neutral
+293,Some provisions are clear while others need more explanation.,Neutral
+294,The draft law introduces incremental changes rather than major reforms.,Neutral
+295,The impact of the amendment will depend on enforcement mechanisms.,Neutral
+296,The proposal maintains the existing framework with minor adjustments.,Neutral
+297,More guidance notes would help stakeholders understand the amendment.,Neutral
+298,The changes seem manageable but require proper awareness.,Neutral
+299,The amendment is neither significantly beneficial nor harmful.,Neutral
+300,Further stakeholder consultation would be useful.,Neutral
+301,The proposal is acceptable but may require further clarification.,Neutral
+302,"The amendment appears reasonable, though implementation will be important.",Neutral
+303,Some provisions are clear while others need more explanation.,Neutral
+304,The draft law introduces incremental changes rather than major reforms.,Neutral
+305,The impact of the amendment will depend on enforcement mechanisms.,Neutral
+306,The proposal maintains the existing framework with minor adjustments.,Neutral
+307,More guidance notes would help stakeholders understand the amendment.,Neutral
+308,The changes seem manageable but require proper awareness.,Neutral
+309,The amendment is neither significantly beneficial nor harmful.,Neutral
+310,Further stakeholder consultation would be useful.,Neutral
+311,The proposal is acceptable but may require further clarification.,Neutral
+312,"The amendment appears reasonable, though implementation will be important.",Neutral
+313,Some provisions are clear while others need more explanation.,Neutral
+314,The draft law introduces incremental changes rather than major reforms.,Neutral
+315,The impact of the amendment will depend on enforcement mechanisms.,Neutral
+316,The proposal maintains the existing framework with minor adjustments.,Neutral
+317,More guidance notes would help stakeholders understand the amendment.,Neutral
+318,The changes seem manageable but require proper awareness.,Neutral
+319,The amendment is neither significantly beneficial nor harmful.,Neutral
+320,Further stakeholder consultation would be useful.,Neutral
+321,The proposal is acceptable but may require further clarification.,Neutral
+322,"The amendment appears reasonable, though implementation will be important.",Neutral
+323,Some provisions are clear while others need more explanation.,Neutral
+324,The draft law introduces incremental changes rather than major reforms.,Neutral
+325,The impact of the amendment will depend on enforcement mechanisms.,Neutral
+326,The proposal maintains the existing framework with minor adjustments.,Neutral
+327,More guidance notes would help stakeholders understand the amendment.,Neutral
+328,The changes seem manageable but require proper awareness.,Neutral
+329,The amendment is neither significantly beneficial nor harmful.,Neutral
+330,Further stakeholder consultation would be useful.,Neutral
+331,The proposal is acceptable but may require further clarification.,Neutral
+332,"The amendment appears reasonable, though implementation will be important.",Neutral
+333,Some provisions are clear while others need more explanation.,Neutral
+334,The draft law introduces incremental changes rather than major reforms.,Neutral
+335,The impact of the amendment will depend on enforcement mechanisms.,Neutral
+336,The proposal maintains the existing framework with minor adjustments.,Neutral
+337,More guidance notes would help stakeholders understand the amendment.,Neutral
+338,The changes seem manageable but require proper awareness.,Neutral
+339,The amendment is neither significantly beneficial nor harmful.,Neutral
+340,Further stakeholder consultation would be useful.,Neutral
+341,The proposal is acceptable but may require further clarification.,Neutral
+342,"The amendment appears reasonable, though implementation will be important.",Neutral
+343,Some provisions are clear while others need more explanation.,Neutral
+344,The draft law introduces incremental changes rather than major reforms.,Neutral
+345,The impact of the amendment will depend on enforcement mechanisms.,Neutral
+346,The proposal maintains the existing framework with minor adjustments.,Neutral
+347,More guidance notes would help stakeholders understand the amendment.,Neutral
+348,The changes seem manageable but require proper awareness.,Neutral
+349,The amendment is neither significantly beneficial nor harmful.,Neutral
+350,Further stakeholder consultation would be useful.,Neutral
+351,The amendment introduces ambiguity and may lead to confusion.,Negative
+352,This proposal increases compliance burden unnecessarily.,Negative
+353,The draft legislation lacks clarity in key provisions.,Negative
+354,The amendment may increase operational costs for companies.,Negative
+355,This proposal does not adequately consider MSME challenges.,Negative
+356,The changes could lead to increased litigation.,Negative
+357,The amendment complicates existing compliance procedures.,Negative
+358,The draft law ignores practical implementation issues.,Negative
+359,The amendment may negatively impact ease of doing business.,Negative
+360,This proposal requires substantial reworking before implementation.,Negative
+361,The amendment introduces ambiguity and may lead to confusion.,Negative
+362,This proposal increases compliance burden unnecessarily.,Negative
+363,The draft legislation lacks clarity in key provisions.,Negative
+364,The amendment may increase operational costs for companies.,Negative
+365,This proposal does not adequately consider MSME challenges.,Negative
+366,The changes could lead to increased litigation.,Negative
+367,The amendment complicates existing compliance procedures.,Negative
+368,The draft law ignores practical implementation issues.,Negative
+369,The amendment may negatively impact ease of doing business.,Negative
+370,This proposal requires substantial reworking before implementation.,Negative
+371,The amendment introduces ambiguity and may lead to confusion.,Negative
+372,This proposal increases compliance burden unnecessarily.,Negative
+373,The draft legislation lacks clarity in key provisions.,Negative
+374,The amendment may increase operational costs for companies.,Negative
+375,This proposal does not adequately consider MSME challenges.,Negative
+376,The changes could lead to increased litigation.,Negative
+377,The amendment complicates existing compliance procedures.,Negative
+378,The draft law ignores practical implementation issues.,Negative
+379,The amendment may negatively impact ease of doing business.,Negative
+380,This proposal requires substantial reworking before implementation.,Negative
+381,The amendment introduces ambiguity and may lead to confusion.,Negative
+382,This proposal increases compliance burden unnecessarily.,Negative
+383,The draft legislation lacks clarity in key provisions.,Negative
+384,The amendment may increase operational costs for companies.,Negative
+385,This proposal does not adequately consider MSME challenges.,Negative
+386,The changes could lead to increased litigation.,Negative
+387,The amendment complicates existing compliance procedures.,Negative
+388,The draft law ignores practical implementation issues.,Negative
+389,The amendment may negatively impact ease of doing business.,Negative
+390,This proposal requires substantial reworking before implementation.,Negative
+391,The amendment introduces ambiguity and may lead to confusion.,Negative
+392,This proposal increases compliance burden unnecessarily.,Negative
+393,The draft legislation lacks clarity in key provisions.,Negative
+394,The amendment may increase operational costs for companies.,Negative
+395,This proposal does not adequately consider MSME challenges.,Negative
+396,The changes could lead to increased litigation.,Negative
+397,The amendment complicates existing compliance procedures.,Negative
+398,The draft law ignores practical implementation issues.,Negative
+399,The amendment may negatively impact ease of doing business.,Negative
+400,This proposal requires substantial reworking before implementation.,Negative
+401,The amendment introduces ambiguity and may lead to confusion.,Negative
+402,This proposal increases compliance burden unnecessarily.,Negative
+403,The draft legislation lacks clarity in key provisions.,Negative
+404,The amendment may increase operational costs for companies.,Negative
+405,This proposal does not adequately consider MSME challenges.,Negative
+406,The changes could lead to increased litigation.,Negative
+407,The amendment complicates existing compliance procedures.,Negative
+408,The draft law ignores practical implementation issues.,Negative
+409,The amendment may negatively impact ease of doing business.,Negative
+410,This proposal requires substantial reworking before implementation.,Negative
+411,The amendment introduces ambiguity and may lead to confusion.,Negative
+412,This proposal increases compliance burden unnecessarily.,Negative
+413,The draft legislation lacks clarity in key provisions.,Negative
+414,The amendment may increase operational costs for companies.,Negative
+415,This proposal does not adequately consider MSME challenges.,Negative
+416,The changes could lead to increased litigation.,Negative
+417,The amendment complicates existing compliance procedures.,Negative
+418,The draft law ignores practical implementation issues.,Negative
+419,The amendment may negatively impact ease of doing business.,Negative
+420,This proposal requires substantial reworking before implementation.,Negative
+421,The amendment introduces ambiguity and may lead to confusion.,Negative
+422,This proposal increases compliance burden unnecessarily.,Negative
+423,The draft legislation lacks clarity in key provisions.,Negative
+424,The amendment may increase operational costs for companies.,Negative
+425,This proposal does not adequately consider MSME challenges.,Negative
+426,The changes could lead to increased litigation.,Negative
+427,The amendment complicates existing compliance procedures.,Negative
+428,The draft law ignores practical implementation issues.,Negative
+429,The amendment may negatively impact ease of doing business.,Negative
+430,This proposal requires substantial reworking before implementation.,Negative
+431,The amendment introduces ambiguity and may lead to confusion.,Negative
+432,This proposal increases compliance burden unnecessarily.,Negative
+433,The draft legislation lacks clarity in key provisions.,Negative
+434,The amendment may increase operational costs for companies.,Negative
+435,This proposal does not adequately consider MSME challenges.,Negative
+436,The changes could lead to increased litigation.,Negative
+437,The amendment complicates existing compliance procedures.,Negative
+438,The draft law ignores practical implementation issues.,Negative
+439,The amendment may negatively impact ease of doing business.,Negative
+440,This proposal requires substantial reworking before implementation.,Negative
+441,The amendment introduces ambiguity and may lead to confusion.,Negative
+442,This proposal increases compliance burden unnecessarily.,Negative
+443,The draft legislation lacks clarity in key provisions.,Negative
+444,The amendment may increase operational costs for companies.,Negative
+445,This proposal does not adequately consider MSME challenges.,Negative
+446,The changes could lead to increased litigation.,Negative
+447,The amendment complicates existing compliance procedures.,Negative
+448,The draft law ignores practical implementation issues.,Negative
+449,The amendment may negatively impact ease of doing business.,Negative
+450,This proposal requires substantial reworking before implementation.,Negative
+451,The amendment introduces ambiguity and may lead to confusion.,Negative
+452,This proposal increases compliance burden unnecessarily.,Negative
+453,The draft legislation lacks clarity in key provisions.,Negative
+454,The amendment may increase operational costs for companies.,Negative
+455,This proposal does not adequately consider MSME challenges.,Negative
+456,The changes could lead to increased litigation.,Negative
+457,The amendment complicates existing compliance procedures.,Negative
+458,The draft law ignores practical implementation issues.,Negative
+459,The amendment may negatively impact ease of doing business.,Negative
+460,This proposal requires substantial reworking before implementation.,Negative
+461,The amendment introduces ambiguity and may lead to confusion.,Negative
+462,This proposal increases compliance burden unnecessarily.,Negative
+463,The draft legislation lacks clarity in key provisions.,Negative
+464,The amendment may increase operational costs for companies.,Negative
+465,This proposal does not adequately consider MSME challenges.,Negative
+466,The changes could lead to increased litigation.,Negative
+467,The amendment complicates existing compliance procedures.,Negative
+468,The draft law ignores practical implementation issues.,Negative
+469,The amendment may negatively impact ease of doing business.,Negative
+470,This proposal requires substantial reworking before implementation.,Negative
+471,The amendment introduces ambiguity and may lead to confusion.,Negative
+472,This proposal increases compliance burden unnecessarily.,Negative
+473,The draft legislation lacks clarity in key provisions.,Negative
+474,The amendment may increase operational costs for companies.,Negative
+475,This proposal does not adequately consider MSME challenges.,Negative
+476,The changes could lead to increased litigation.,Negative
+477,The amendment complicates existing compliance procedures.,Negative
+478,The draft law ignores practical implementation issues.,Negative
+479,The amendment may negatively impact ease of doing business.,Negative
+480,This proposal requires substantial reworking before implementation.,Negative
+481,The amendment introduces ambiguity and may lead to confusion.,Negative
+482,This proposal increases compliance burden unnecessarily.,Negative
+483,The draft legislation lacks clarity in key provisions.,Negative
+484,The amendment may increase operational costs for companies.,Negative
+485,This proposal does not adequately consider MSME challenges.,Negative
+486,The changes could lead to increased litigation.,Negative
+487,The amendment complicates existing compliance procedures.,Negative
+488,The draft law ignores practical implementation issues.,Negative
+489,The amendment may negatively impact ease of doing business.,Negative
+490,This proposal requires substantial reworking before implementation.,Negative
+491,The amendment introduces ambiguity and may lead to confusion.,Negative
+492,This proposal increases compliance burden unnecessarily.,Negative
+493,The draft legislation lacks clarity in key provisions.,Negative
+494,The amendment may increase operational costs for companies.,Negative
+495,This proposal does not adequately consider MSME challenges.,Negative
+496,The changes could lead to increased litigation.,Negative
+497,The amendment complicates existing compliance procedures.,Negative
+498,The draft law ignores practical implementation issues.,Negative
+499,The amendment may negatively impact ease of doing business.,Negative
+500,This proposal requires substantial reworking before implementation.,Negative
