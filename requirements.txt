@@ -7,9 +7,5 @@ scikit-learn
 torch
 transformers
 plotly
-<<<<<<< HEAD
-wordcloud
-=======
 wordcloud
 scipy
->>>>>>> 60cb956 (Update dashboard.py: wordcloud dynamic colors, centered green download button)
